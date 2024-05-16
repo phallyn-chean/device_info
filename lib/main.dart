@@ -1,4 +1,4 @@
-import 'package:device_info_app/wrapper.dart';
+import 'package:device_manager/wrapper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

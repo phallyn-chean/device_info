@@ -1,7 +1,7 @@
-import 'package:device_info_app/screens/device_info/application_info_screen.dart';
-import 'package:device_info_app/screens/device_info/device_info_screen.dart';
-import 'package:device_info_app/screens/device_info/network_info_screen.dart';
-import 'package:device_info_app/services/platform_identify_service.dart';
+import 'package:device_manager/screens/device_info/application_info_screen.dart';
+import 'package:device_manager/screens/device_info/device_info_screen.dart';
+import 'package:device_manager/screens/device_info/network_info_screen.dart';
+import 'package:device_manager/services/platform_identify_service.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
