@@ -1,4 +1,4 @@
-name: device_manager
+name: device_info_app
 description: A new Flutter project.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -25,24 +25,26 @@ dependencies:
   
 
 dev_dependencies:
-  flutter_app_name: ^0.1.1
-  flutter_launcher_icons: ^0.11.0
+  flutter_rename_app_plus3: ^1.2.4
+  flutter_launcher_icons: ^0.13.0
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.0
   flutter_native_splash: ^2.2.0+1
 
-flutter_app_name:
-  name: "Device Info"
+flutter_rename_app_plus3:
+  application_name: Device Info App
+  dart_package_name: device_info_app
+  application_id: com.android.deviceinfo
+  bundle_id: com.ios.deviceinfo
+  android_package_name: com.deviceinfo.app
+  ios_bundle_name: Device Info
 
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/app-icon-1024x1024.png"
-  web: true
-  windows: true
-  macos: true
 
 flutter_native_splash:
   color: "#ffffff"

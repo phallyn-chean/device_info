@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:ui';
 
 import 'package:device_info_plus/device_info_plus.dart';
-import 'package:device_manager/services/platform_identify_service.dart';
+import 'package:device_info_app/services/platform_identify_service.dart';
 import 'package:flutter/services.dart';
 
 class DeviceInfoService {

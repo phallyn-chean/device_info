@@ -1,5 +1,5 @@
-import 'package:device_manager/services/network_info_service.dart';
-import 'package:device_manager/widgets/info_widget.dart';
+import 'package:device_info_app/services/network_info_service.dart';
+import 'package:device_info_app/widgets/info_widget.dart';
 import 'package:flutter/material.dart';
 
 class NetworkInfoScreen extends StatefulWidget {

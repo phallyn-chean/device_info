@@ -1,6 +1,6 @@
-import 'package:device_manager/screens/home/home_screen.dart';
-import 'package:device_manager/services/network_info_service.dart';
-import 'package:device_manager/services/platform_identify_service.dart';
+import 'package:device_info_app/screens/home/home_screen.dart';
+import 'package:device_info_app/services/network_info_service.dart';
+import 'package:device_info_app/services/platform_identify_service.dart';
 import 'package:flutter/material.dart';
 
 class Wrapper extends StatelessWidget {
