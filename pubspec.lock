@@ -356,10 +356,10 @@ packages:
     dependency: "direct main"
     description:
       name: network_info_plus
-      sha256: "7688358409b3238aaeb88d4dee69c958d010cc521c4062cb8236ee3a6117b35d"
+      sha256: "746b4bcc936c1d1887e12ea867dd1e351112d6a4525185d54479eea0aec79785"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.2"
+    version: "2.3.2"
   network_info_plus_linux:
     dependency: transitive
     description:
