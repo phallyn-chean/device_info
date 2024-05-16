@@ -20,6 +20,8 @@ dependencies:
   http_multi_server: ^3.2.1
   network_inspector: ^1.1.0
   package_info_plus: ^4.2.0
+  http: ^1.1.0
+  network_info_plus: ^2.1.2
   
 
 dev_dependencies:
@@ -30,6 +32,24 @@ dev_dependencies:
 
   flutter_lints: ^2.0.0
   flutter_native_splash: ^2.2.0+1
+
+flutter_app_name:
+  name: "Device Info"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app-icon-1024x1024.png"
+  web: true
+  windows: true
+  macos: true
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: "assets/splash-icon-384x384.png"
+  android: true
+  ios: true
+  web: true
 
 flutter:
 
