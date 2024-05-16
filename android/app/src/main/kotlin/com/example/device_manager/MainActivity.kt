@@ -1,6 +1,7 @@
-package com.example.device_manager
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
+com.deviceinfo.apppcom.deviceinfo.appacom.deviceinfo.appccom.deviceinfo.appkcom.deviceinfo.appacom.deviceinfo.appgcom.deviceinfo.appecom.deviceinfo.app com.deviceinfo.appccom.deviceinfo.appocom.deviceinfo.appmcom.deviceinfo.app.com.deviceinfo.appecom.deviceinfo.appxcom.deviceinfo.appacom.deviceinfo.appmcom.deviceinfo.apppcom.deviceinfo.applcom.deviceinfo.appecom.deviceinfo.app.com.deviceinfo.appdcom.deviceinfo.appecom.deviceinfo.appvcom.deviceinfo.appicom.deviceinfo.appccom.deviceinfo.appecom.deviceinfo.app_com.deviceinfo.appmcom.deviceinfo.appacom.deviceinfo.appncom.deviceinfo.appacom.deviceinfo.appgcom.deviceinfo.appecom.deviceinfo.apprcom.deviceinfo.appcom.deviceinfo.app
+com.deviceinfo.appcom.deviceinfo.app
+com.deviceinfo.appicom.deviceinfo.appmcom.deviceinfo.apppcom.deviceinfo.appocom.deviceinfo.apprcom.deviceinfo.apptcom.deviceinfo.app com.deviceinfo.appicom.deviceinfo.appocom.deviceinfo.app.com.deviceinfo.appfcom.deviceinfo.applcom.deviceinfo.appucom.deviceinfo.apptcom.deviceinfo.apptcom.deviceinfo.appecom.deviceinfo.apprcom.deviceinfo.app.com.deviceinfo.appecom.deviceinfo.appmcom.deviceinfo.appbcom.deviceinfo.appecom.deviceinfo.appdcom.deviceinfo.appdcom.deviceinfo.appicom.deviceinfo.appncom.deviceinfo.appgcom.deviceinfo.app.com.deviceinfo.appacom.deviceinfo.appncom.deviceinfo.appdcom.deviceinfo.apprcom.deviceinfo.appocom.deviceinfo.appicom.deviceinfo.appdcom.deviceinfo.app.com.deviceinfo.appFcom.deviceinfo.applcom.deviceinfo.appucom.deviceinfo.apptcom.deviceinfo.apptcom.deviceinfo.appecom.deviceinfo.apprcom.deviceinfo.appAcom.deviceinfo.appccom.deviceinfo.apptcom.deviceinfo.appicom.deviceinfo.appvcom.deviceinfo.appicom.deviceinfo.apptcom.deviceinfo.appycom.deviceinfo.appcom.deviceinfo.app
+com.deviceinfo.appcom.deviceinfo.app
+com.deviceinfo.appccom.deviceinfo.applcom.deviceinfo.appacom.deviceinfo.appscom.deviceinfo.appscom.deviceinfo.app com.deviceinfo.appMcom.deviceinfo.appacom.deviceinfo.appicom.deviceinfo.appncom.deviceinfo.appAcom.deviceinfo.appccom.deviceinfo.apptcom.deviceinfo.appicom.deviceinfo.appvcom.deviceinfo.appicom.deviceinfo.apptcom.deviceinfo.appycom.deviceinfo.app:com.deviceinfo.app com.deviceinfo.appFcom.deviceinfo.applcom.deviceinfo.appucom.deviceinfo.apptcom.deviceinfo.apptcom.deviceinfo.appecom.deviceinfo.apprcom.deviceinfo.appAcom.deviceinfo.appccom.deviceinfo.apptcom.deviceinfo.appicom.deviceinfo.appvcom.deviceinfo.appicom.deviceinfo.apptcom.deviceinfo.appycom.deviceinfo.app(com.deviceinfo.app)com.deviceinfo.app com.deviceinfo.app{com.deviceinfo.appcom.deviceinfo.app
+com.deviceinfo.app}com.deviceinfo.appcom.deviceinfo.app
+com.deviceinfo.app
